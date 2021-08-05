@@ -1,0 +1,27 @@
+.Card-container {
+  background-color: #ffff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.28);
+  border-radius: 5px;
+}
+
+.Card-image {
+  width: 150px;
+  height: 150px;
+  border: 3px solid rgb(209, 206, 206);
+  padding: 0px;
+  border-radius: 50%;
+  background-color: rgba(131, 124, 124, 0.05);
+  margin-top: 30px;
+}
+
+.Card-name {
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.Card-description {
+  font-size: 16px;
+  line-height: 128%;
+  padding: 40px;
+}

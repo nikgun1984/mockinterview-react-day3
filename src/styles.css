@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  background-color: rgb(187, 232, 228);
+}
+
+.App {
+  font-family: Roboto, sans-serif;
+  text-align: center;
+  padding: 10px;
+  color: rgba(0, 0, 0, 0.9);
+}
+
+.App-select {
+  height: 50px;
+  border: 1px;
+  text-align: left;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.28);
+  width: 94vw;
+}
+
+.App-button {
+  background-color: rgb(125, 126, 186);
+  color: #ffff;
+  height: 50px;
+  border-radius: 5px;
+  width: 44vw;
+  margin-top: 290px;
+  margin-right: 10px;
+}
